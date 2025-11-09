@@ -13,7 +13,7 @@ const Navbar = () => {
             <ul className="flex gap-2">
                 <li><a href="#" className="font-bold text-[18px] text-black">For You</a></li>
                 <li><a href="#" className="font-bold text-[18px] text-black">Discover</a></li>
-                <li><a href="#" className="font-bold text-[18px] text-black">Livestreams</a></li>
+                <li><a href="#" className="font-bold text-[18px] text-black">Livestream</a></li>
                 <li><a href="#" className="font-bold text-[18px] text-black">Hire</a></li>
                 <li><a href="#" className="font-bold text-[18px] text-black">Jobs</a></li>
             </ul>

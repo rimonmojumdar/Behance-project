@@ -1,3 +1,3 @@
 # Behance Project
 
-#### (Live Demo)[http://behance-project.surge.sh/]
+#### [Live Demo](http://behance-project.surge.sh/)
